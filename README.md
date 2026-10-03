@@ -16,6 +16,8 @@ I build reliable software and machine-learning systems, from local-first desktop
 
 **[MRI quality assessment](https://github.com/RuneBrix/Assessment-of-brain-segmentation-using-scan-parameters)** — BSc group project on predicting whether heterogeneous MRI metadata indicated risk of failure in a downstream brain-analysis system. My work focused on in-depth data analysis and preparing inconsistently formatted metadata for modelling.
 
+**[A/B Testing Application](https://github.com/RuneBrix/SEA-Project)** — software engineering and architecture course project developed through requirements work, customer-style meetings, iterative delivery, and testing. I contributed across organisation, documentation, architecture, development, and a local demo, including work on test-data export and testing options. Built with React, Next.js, Electron, and TypeScript.
+
 Python · PyTorch · pandas · Rust · Tauri · TypeScript · React · Git · Docker
 
 Interested in software engineering, ML/data science, developer tools, and technical product work where solid engineering and close user dialogue matter.
