@@ -1,25 +1,21 @@
-# Hi, I'm Rune 👋
+# Rune Brix Lundsgaard Thomsen
 
-I'm a computer scientist in Copenhagen who builds software and machine-learning systems with an emphasis on clear architecture, careful evaluation, and tools that people can actually use.
+### Software Engineering · Machine Learning · Developer Tools
 
-Right now, I'm developing **[AgentStudio](https://github.com/RuneBrix/AgentStudio)**, a local-first Windows application for exploring repository-level agent instructions and skills. I also work with image analysis and research tooling as an R&D Analytics & Data Science intern at Topsoe.
+I build reliable software and machine-learning systems, from local-first desktop applications to image-analysis pipelines and explainable AI for 3D medical data. I hold an MSc in Computer Science from the University of Copenhagen.
 
-## Selected work
+## Current work
 
-| Project | What it demonstrates | Stack |
-|---|---|---|
-| **[AgentStudio](https://github.com/RuneBrix/AgentStudio)** | A read-only desktop explorer for `AGENTS.md` and `SKILL.md` files. I designed and implemented the application across a React interface and Rust native core, including filesystem discovery, defensive parsing, typed boundaries, diagnostics, tests, and project documentation. | Rust, Tauri, React, TypeScript |
-| **[3D explainable AI](https://github.com/RuneBrix/NEM-3D-adaptation)** | My MSc thesis adapted Neural Explanation Masks to volumetric medical images and compared the method with Integrated Gradients and RISE. The work covered 3D deep learning, experiment design, quantitative evaluation, runtime measurement, and an explicit discussion of limitations. | Python, PyTorch, MONAI, Captum |
-| **[MRI quality assessment](https://github.com/RuneBrix/Assessment-of-brain-segmentation-using-scan-parameters)** | A BSc group project that analysed heterogeneous MRI metadata and modelled whether scans were suitable for a downstream brain-analysis system. My work included in-depth data analysis and preparing inconsistently formatted metadata for modelling. | Python, pandas, PyTorch |
+**R&D Analytics & Data Science Intern, Topsoe** — developing Python tooling for image-based product quality control and supporting the ongoing evaluation with scientists. I also improve instruction and skill files for internal research agents together with colleagues and researchers.
 
-## How I work
+**[AgentStudio](https://github.com/RuneBrix/AgentStudio)** — independently building a local-first Windows explorer for repository-level agent instructions and skills. The application combines a React and TypeScript interface with a Rust/Tauri core for safe filesystem discovery, defensive parsing, typed data exchange, diagnostics, and testing.
 
-- I like end-to-end problems: understanding the need, choosing a practical scope, implementing it, testing it, and documenting the decisions.
-- I care about honest boundaries—what the data supports, what the software guarantees, and what remains uncertain.
-- I have experience translating feedback from researchers, public-sector users, and visually impaired users into concrete technical improvements.
+## Selected projects
 
-## Tools I reach for
+**[Extending Neural Explanation Masks to 3D Medical Images](https://github.com/RuneBrix/NEM-3D-adaptation)** — MSc thesis on adapting and evaluating an explainable-AI method for volumetric medical images. I implemented a 3D masking network and compared it with Integrated Gradients and RISE across faithfulness, localisation, complexity, and runtime. Grade: 12.
 
-`Python` · `PyTorch` · `pandas` · `Rust` · `TypeScript` · `React` · `Tauri` · `Git` · `Docker`
+**[MRI quality assessment](https://github.com/RuneBrix/Assessment-of-brain-segmentation-using-scan-parameters)** — BSc group project on predicting whether heterogeneous MRI metadata indicated risk of failure in a downstream brain-analysis system. My work focused on in-depth data analysis and preparing inconsistently formatted metadata for modelling.
 
-I'm interested in software engineering, ML/data science, developer tools, and technical product work where solid engineering and close user dialogue matter.
+Python · PyTorch · pandas · Rust · Tauri · TypeScript · React · Git · Docker
+
+Interested in software engineering, ML/data science, developer tools, and technical product work where solid engineering and close user dialogue matter.
