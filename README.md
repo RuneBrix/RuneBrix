@@ -10,6 +10,8 @@ I build reliable software and machine-learning systems, from local-first desktop
 
 **[AgentStudio](https://github.com/RuneBrix/AgentStudio)** — independently building a local-first Windows explorer for repository-level agent instructions and skills. The application combines a React and TypeScript interface with a Rust/Tauri core for safe filesystem discovery, defensive parsing, typed data exchange, diagnostics, and testing.
 
+**[Arcana — Magic deckbuilder](https://github.com/RuneBrix/magic-the-deckbuilder)** *(hobby project)* — building a dependency-free local web app for creating and analysing Magic: The Gathering decks alongside Scryfall card discovery. It includes deck zones, guided search, statistics, import/export, local persistence, and partial construction checks, with automated tests and documented limitations.
+
 ## Selected projects
 
 **[Extending Neural Explanation Masks to 3D Medical Images](https://github.com/RuneBrix/NEM-3D-adaptation)** — MSc thesis on adapting and evaluating an explainable-AI method for volumetric medical images. I implemented a 3D masking network and compared it with Integrated Gradients and RISE across faithfulness, localisation, complexity, and runtime. Grade: 12.
@@ -21,3 +23,4 @@ I build reliable software and machine-learning systems, from local-first desktop
 Python · PyTorch · pandas · Rust · Tauri · TypeScript · React · Git · Docker
 
 Interested in software engineering, ML/data science, developer tools, and technical product work where solid engineering and close user dialogue matter.
+
